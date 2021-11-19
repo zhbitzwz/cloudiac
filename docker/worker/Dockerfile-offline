@@ -1,0 +1,3 @@
+FROM cloudiac/ct-worker:v0.6.0
+
+COPY terraformrc-offline /root/.terraformrc
