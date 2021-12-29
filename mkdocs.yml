@@ -1,0 +1,5 @@
+site_name: CloudIaC 文档中心
+docs_dir: "docs/mkdocs"
+theme: readthedocs
+plugins: []
+
